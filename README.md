@@ -1,0 +1,1 @@
+Grounded - A blog documenting my exploration into computation from first principles
