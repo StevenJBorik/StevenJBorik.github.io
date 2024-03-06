@@ -16,5 +16,6 @@ A blog documenting my exploration into computation from first principles as insp
 
 Field Programmable Gate Arrays are wild. They essentially do nothing on their own but are completely customizable in respect to the digital circut design you want it to function as. The configuration is RAM based so it can be reconfigured ad nauseum. Before we move on to some of the details, the above article suggests I explore some even more fundamental topics such as voltage and current, which I've probably forgot about since high school science. 
 
-[Voltage, Current, Resistance, and Ohm's Law] (https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
+[Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 
+Electricty... movement of electrons..
